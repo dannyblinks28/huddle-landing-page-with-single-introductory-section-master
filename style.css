@@ -101,6 +101,11 @@ h2 {
     background-size: cover;
   }
 
+  h2 {
+    font-size: 2.5em;
+    max-width: 450px;
+  }
+
   .main-container {
     display: flex;
     padding: 0;
